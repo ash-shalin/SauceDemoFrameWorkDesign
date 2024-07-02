@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="tests" name="Suite">
+<listeners>
+        <listener class-name="extentreporter.Listeners" />
+    </listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testcases.LoginTC"/>
+      <class name="testcases.PurchaseProductsTC"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

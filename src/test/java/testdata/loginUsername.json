@@ -1,0 +1,18 @@
+{
+	"User1": {
+		"Username": "standard_user",
+		"Password": "secret_sauce"
+	},
+	"User2": {
+		"Username": "locked_out_user",
+		"Password": "secret_sauce"
+	},
+	"User3": {
+		"Username": "problem_user",
+		"Password": "secret_sauce"
+	},
+	"User4": {
+		"Username": "visual_user",
+		"Password": "secret_sauce"
+	}
+}
